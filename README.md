@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/dayvyson-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/DayvysonAlmeida/DayvysonAlmeida/blob/output/github-contribution-grid-snake.svg)
   </div>

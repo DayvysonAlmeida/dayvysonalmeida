@@ -1,0 +1,7 @@
+git clone url...[D[D[D[D[D[D([F)[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C)
+alterações
+git status
+git add bizus.txt
+git status
+git commit -m 'Adiciona'
+git push -u origin main

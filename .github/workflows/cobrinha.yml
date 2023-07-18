@@ -1,7 +1,5 @@
 name: main
 
-on: [push]
-
     - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./

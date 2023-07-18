@@ -26,5 +26,5 @@
 </br>
  
  
- ![snake gif](https://github.com/dayvysonalmeida/dayvysonalmeida/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/dayvysonalmeida/dayvysonalmeida/blob/output/github-contribution-grid-snake.svg)
   

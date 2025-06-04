@@ -10,9 +10,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {ADS} no {Uninabuco}.
-- 💼 Trabalhando como {Suporte Técnico} na {Unimed Recife}.
-- 🌱 Aprendendo mais sobre {Desenvolvimento full stack}.
+- 🎓 Estudando ADS na Uninassau.
+- 💼 Trabalhando como Suporte Técnico II na Unimed Recife.
+- 🌱 Aprendendo mais sobre Desenvolvimento full stack.
 
 ## Minhas Skills
 
@@ -44,6 +44,9 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Notion XD](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=007ACC)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000000?style=flat&logo=DBeaver&logoColor=007ACC)
+
 
 <br/>
 

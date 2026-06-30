@@ -95,6 +95,11 @@ Também utilizo:
 # 🚀 Projetos em Destaque
 
 
+##  Amigo secreto
+
+
+🔗 https://github.com/DayvysonAlmeida/amigo-secreto
+
 ## ⚽ Bolão da Copa do Mundo
 
 Sistema Full Stack desenvolvido em **React + Django**, consumindo APIs de futebol para gerenciamento de apostas, classificação em tempo real e mata-mata.

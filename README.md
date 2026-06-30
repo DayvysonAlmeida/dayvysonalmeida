@@ -116,19 +116,12 @@ Também utilizo:
 
 # 🚀 Projetos em Destaque
 
-## 🎁 Lista de Presentes
-
-Aplicação desenvolvida utilizando **React + Django**, permitindo gerenciamento de listas de presentes, autenticação de usuários e integração com banco de dados.
-
-🔗 Em breve
-
----
 
 ## ⚽ Bolão da Copa do Mundo
 
 Sistema Full Stack desenvolvido em **React + Django**, consumindo APIs de futebol para gerenciamento de apostas, classificação em tempo real e mata-mata.
 
-🔗 Em breve
+🔗 https://bolao-copa-2026-henna.vercel.app/
 
 ---
 

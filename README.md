@@ -1,67 +1,203 @@
-## Bem-vindo eu sou o Dayvyson Almeida 😁
-![](https://komarev.com/ghpvc/?DayvysonAlmeida=iuricode&color=006bed)
+<h1 align="center">Olá, eu sou o Dayvyson Almeida 👋</h1>
 
- <div>
-   <a href="https://github.com/DayvysonAlmeida">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dayvysonalmeida&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvysonalmeida&layout=compact&langs_count=6&theme=merko"/>
+<h3 align="center">
+Analista de Desenvolvimento de Sistemas • Desenvolvedor Full Stack
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DayvysonAlmeida&label=Visualizações&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou **Analista de Desenvolvimento de Sistemas** apaixonado por tecnologia e desenvolvimento de software.
+
+Tenho experiência no desenvolvimento de aplicações **Full Stack**, criação de APIs, bancos de dados relacionais, Docker, versionamento com Git e desenvolvimento de soluções web modernas.
+
+Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, construindo aplicações escaláveis, performáticas e com foco na melhor experiência do usuário.
+
+---
+
+## 💼 Atualmente
+
+- 💻 Analista de Desenvolvimento de Sistemas
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🌱 Aprimorando conhecimentos em Arquitetura de Software, Docker e Cloud
+- 🚀 Desenvolvendo projetos Full Stack
+
+---
+
+# 🛠 Tecnologias
+
+### 👨‍💻 Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,mysql" />
+</p>
+
+---
+
+### ⚛️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,express,bootstrap" />
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+Também possuo experiência com:
+
+- Oracle Database
+- SQL
+
+---
+
+### ☁️ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+---
+
+### 🔧 Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+Também utilizo:
+
+- DBeaver
+- Notion
+- Trello
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvysonAlmeida&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayvysonAlmeida&layout=compact&theme=tokyonight"/>
+
 </div>
 
-## Sobre mim
+---
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS na Uninassau.
-- 💼 Trabalhando como Suporte Técnico II na Unimed Recife.
-- 🌱 Aprendendo mais sobre Desenvolvimento full stack.
+# 📈 Atividade
 
-## Minhas Skills
+<p align="center">
 
-**Aplicações e dados**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DayvysonAlmeida&theme=tokyo-night"/>
 
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React%20-333333?style=flat&logo=react)
+---
 
-**Utilidades**
+# 🏆 Conquistas
 
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat&logo=windows&logoColor=white)
+<p align="center">
 
-**DevOps**
+<img src="https://github-profile-trophy.vercel.app/?username=DayvysonAlmeida&theme=tokyonight&row=1&column=6"/>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+</p>
 
+---
 
-**Ferramentas de desenvolvimento**
+# 🚀 Projetos em Destaque
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Notion XD](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=007ACC)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000000?style=flat&logo=DBeaver&logoColor=007ACC)
+## 🎁 Lista de Presentes
 
+Aplicação desenvolvida utilizando **React + Django**, permitindo gerenciamento de listas de presentes, autenticação de usuários e integração com banco de dados.
 
-<br/>
+🔗 Em breve
 
+---
 
-## Onde me encontrar
+## ⚽ Bolão da Copa do Mundo
 
-[![Linkedin](https://img.shields.io/badge/-DayvysonAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayvyson-almeida)](https://www.linkedin.com/in/dayvyson-almeida)
-[![Gmail Badge](https://img.shields.io/badge/-dayvysonalmeida@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dayvysonalmeida@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/DayvysonAlmeida)
+Sistema Full Stack desenvolvido em **React + Django**, consumindo APIs de futebol para gerenciamento de apostas, classificação em tempo real e mata-mata.
 
+🔗 Em breve
 
+---
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayvysonalmeida/dayvysonalmeida/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayvysonalmeida/dayvysonalmeida/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dayvysonalmeida/dayvysonalmeida/output/github-contribution-grid-snake.svg">
+## 🐳 Ambiente Docker
+
+Projeto contendo ambiente completo com:
+
+- React
+- Django
+- MySQL
+- Docker Compose
+
+Facilitando desenvolvimento e deploy.
+
+---
+
+# 📚 Atualmente estudando
+
+- React
+- Django
+- Node.js
+- Docker
+- APIs REST
+- Clean Code
+- Arquitetura de Software
+- Cloud Computing
+
+---
+
+# 🎯 Objetivo
+
+Busco participar de projetos que envolvam desenvolvimento Full Stack, Backend e Frontend, contribuindo com soluções modernas, escaláveis e de qualidade.
+
+Tenho grande interesse em tecnologias voltadas para desenvolvimento web, APIs, bancos de dados, containers e arquitetura de software.
+
+---
+
+# 🌎 Onde me encontrar
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dayvyson-almeida" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Dayvyson%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dayvysonalmeida@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dayvysonalmeida@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DayvysonAlmeida">
+<img src="https://img.shields.io/badge/GitHub-DayvysonAlmeida-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Minhas contribuições
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DayvysonAlmeida/DayvysonAlmeida/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DayvysonAlmeida/DayvysonAlmeida/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DayvysonAlmeida/DayvysonAlmeida/output/github-contribution-grid-snake.svg">
 </picture>
-  
+
+---
+
+<div align="center">
+
+### 💡 *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença através dela."*
+
+</div>

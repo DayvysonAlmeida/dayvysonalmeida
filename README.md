@@ -82,33 +82,11 @@ Também utilizo:
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvysonAlmeida&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayvysonAlmeida&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📈 Atividade
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayvysonAlmeida&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DayvysonAlmeida&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
